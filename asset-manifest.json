@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bisnis/static/css/main.17a6311e.chunk.css",
+    "main.js": "/bisnis/static/js/main.51f3c7d5.chunk.js",
+    "main.js.map": "/bisnis/static/js/main.51f3c7d5.chunk.js.map",
+    "runtime-main.js": "/bisnis/static/js/runtime-main.89c927d8.js",
+    "runtime-main.js.map": "/bisnis/static/js/runtime-main.89c927d8.js.map",
+    "static/js/2.04eb93f1.chunk.js": "/bisnis/static/js/2.04eb93f1.chunk.js",
+    "static/js/2.04eb93f1.chunk.js.map": "/bisnis/static/js/2.04eb93f1.chunk.js.map",
+    "index.html": "/bisnis/index.html",
+    "precache-manifest.82c83a62fbad7e9ef0825219ff4a5ef3.js": "/bisnis/precache-manifest.82c83a62fbad7e9ef0825219ff4a5ef3.js",
+    "service-worker.js": "/bisnis/service-worker.js",
+    "static/css/main.17a6311e.chunk.css.map": "/bisnis/static/css/main.17a6311e.chunk.css.map",
+    "static/js/2.04eb93f1.chunk.js.LICENSE.txt": "/bisnis/static/js/2.04eb93f1.chunk.js.LICENSE.txt",
+    "static/media/mimpi.jpg": "/bisnis/static/media/mimpi.44be1fb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c927d8.js",
+    "static/js/2.04eb93f1.chunk.js",
+    "static/css/main.17a6311e.chunk.css",
+    "static/js/main.51f3c7d5.chunk.js"
+  ]
+}
